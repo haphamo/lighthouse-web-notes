@@ -10,4 +10,4 @@ This repository contains all of the notes taken by [Ha Pham](https://github.com/
   * [Day 3](/Week_1/Day_3)
   * [Day 4](/Week_1/Day_4)
   * [Day 5](/Week_1/Day_5)
-  * [Weekend] (Week1/we)
+  * [Weekend](/Week1/we)
