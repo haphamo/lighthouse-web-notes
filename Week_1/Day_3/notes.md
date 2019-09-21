@@ -67,3 +67,4 @@ for (var planet in planetMoons) {
 }
 ```
 - Functions can only return one thing. That thing can (as we've seen) be a primitive data type, like a number, a boolean, null or a string. In some cases it makes sense to return an object.
+- `this.` refers to the object the method (function) was called on.
